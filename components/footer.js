@@ -12,8 +12,8 @@ const Footer = () => {
           </div>*/}
           <div className={styles.footer_links}>
             <span>Social</span>
-            <a rel="noreferrer" target="_blank" href="https://linktr.ee/linked2in">LinkedIn</a>
-            <a rel="noreferrer" target="_blank" href="https://linktr.ee/github_375">Github</a>
+            <a rel="noreferrer" target="_blank" href="https://www.linkedin.com/in/shubhi-singh-b284a721b/">LinkedIn</a>
+            <a rel="noreferrer" target="_blank" href="https://github.com/Shubhisingh921">Github</a>
           </div>
         </div>
         <div className={styles.footer_right}>
@@ -22,7 +22,7 @@ const Footer = () => {
           </div>
           <div className={styles.footer_content}>
             <h1>375 DSA Questions</h1>
-            <p>© 2022 - Aman Dhattarwal & Shradha di</p>
+            <p>© 2022 - Aman Gupta & Shubhi Singh</p>
           </div>
         </div>
       </div>

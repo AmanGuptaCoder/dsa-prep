@@ -122,16 +122,16 @@ export default function Home({ data }) {
             <Head>
                 <title>375 DSA</title>
                 <meta
-                    name="375 DSA Questions | By Aman Dhattarwal  &#38; Shradha di"
+                    name="375 DSA Questions | By Aman Gupta &#38; Shubhi Singh"
                     content="375 DSA Tracker helps you build your confidence in solving any coding related question and helps you prepare for your placements. It is your personal web-based progress tracker based on 375 DSA Sheet by Aman Dhattarwal  &#38; Shradha Didi"
                 />
                 <meta
                     name="keyword"
                     content="375 DSA, 375DSA, DSA 375, DSA375, Aman Dhattarwal, Apna college, Shradha Khapar, Shradha didi, DSA, arrays, 2d arrays, backtracking, binary search tree, binary tree, bit manipulation, dynamic programming, dp, graph, greedy, heap, hashing, linked list, sorting, segment trees, stacks, queues, strings, tries"
                 />
-                <meta name="author" content="Abhilash Jena" />
-                <link rel="canonical" href="https://dsa-prep.vercel.app" />
-                <meta name="url" content="https://dsa-prep.vercel.app" />
+                <meta name="author" content="Shubhi Singh" />
+                <link rel="canonical" href="https://450dsabyshubhi.tk/" />
+                <meta name="url" content="https://450dsabyshubhi.tk/" />
                 <link rel="icon" href="/favicon.ico" />
                 <script
                     async
@@ -156,7 +156,7 @@ export default function Home({ data }) {
                             solving any coding related question and helps you
                             prepare for your placements. It is your personal
                             web-based progress tracker based on 375 DSA Sheet by
-                            Aman Dhattarwal & Shradha Didi.
+                            Aman Gupta & Shubhi Singh.
                         </p>
                     </div>
                     <Image height={480} width={400} src={seven} />
@@ -171,7 +171,7 @@ export default function Home({ data }) {
                         solving any coding related question and helps you
                         prepare for your placements. It is your personal
                         web-based progress tracker based on 375 DSA Sheet by
-                        Aman Dhattarwal & Shradha Didi.
+                        Aman Gupta & Shubhi Singh.
                     </p>
                 </div>
                 <div className={styles.grid}>
